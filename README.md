@@ -1,5 +1,3 @@
-# AI-Powered_Food_Redistribution_Platform
-
 # SustainShare: AI-Powered Food Redistribution Platform  
 **Connecting surplus food to communities in need using predictive AI**
 
